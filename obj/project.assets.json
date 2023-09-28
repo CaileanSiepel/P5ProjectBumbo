@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\caile\\.nuget\\packages\\": {},
+    "C:\\Users\\Cailean\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Semester3\\PROG\\Bumbo\\Bumbo.csproj",
+      "projectUniqueName": "C:\\Semester3\\PROJ\\P5ProjectBumbo\\Bumbo.csproj",
       "projectName": "Bumbo",
-      "projectPath": "C:\\Semester3\\PROG\\Bumbo\\Bumbo.csproj",
-      "packagesPath": "C:\\Users\\caile\\.nuget\\packages\\",
-      "outputPath": "C:\\Semester3\\PROG\\Bumbo\\obj\\",
+      "projectPath": "C:\\Semester3\\PROJ\\P5ProjectBumbo\\Bumbo.csproj",
+      "packagesPath": "C:\\Users\\Cailean\\.nuget\\packages\\",
+      "outputPath": "C:\\Semester3\\PROJ\\P5ProjectBumbo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\caile\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Cailean\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -69,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
